@@ -1,3 +1,6 @@
+![image](https://github.com/user-attachments/assets/0ab6d05e-ae0f-45b3-96da-97331ef5406c)
+
+
 # DuckOS
 DuckOS - A concept operating system entirely coded with Turbowarp and PenguinMod
 
