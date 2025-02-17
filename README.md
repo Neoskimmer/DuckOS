@@ -3,7 +3,7 @@ DuckOS - A concept operating system entirely coded with Turbowarp and PenguinMod
 
 # Projects Used
 
-Thank you to everyone who let me use their projects in this. I would like to mention them here. If you like DuckOS, please go and ⭐star⭐ their projects.
+Thank you to everyone who let me use/publish/implement their projects in this. I would like to mention them here. If you like DuckOS, please go and ⭐star⭐ their projects.
 
 ### [Acceleration (Browser)](https://github.com/xdevnightless/Acceleration): Made by [xdevnightless](https://github.com/xdevnightless/) and the team that created Acceleration.
 
