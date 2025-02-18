@@ -5,7 +5,7 @@ DuckOS - A concept operating system entirely coded with Turbowarp and PenguinMod
 
 Thank you to everyone who let me use/publish/implement their projects in this. I would like to mention them here. If you like DuckOS, please go and ⭐star⭐ their projects.
 
-### [Acceleration (Browser)](https://github.com/xdevnightless/Acceleration): Made by [xdevnightless](https://github.com/xdevnightless/) and the team that created Acceleration.
+### [Acceleration (Browser)](https://github.com/xdevnightless/Acceleration): Made by [xdevnightless](https://github.com/xdevnightless/) and the rest of his team
 
 ### [Raytraced Minecraft](https://turbowarp.org/869264071?hqpen&offscreen&turbo): Made by [oh261401](https://scratch.mit.edu/users/oh261401/). Make sure you give his work a star and a heart!
 
